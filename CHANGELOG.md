@@ -1,3 +1,7 @@
+# version 0.2.1
+
+- Fix issues
+
 # version 0.2.0
 
 - Oprion to rotate images based on EXIF data, and Base64 implementation for Android [PR #43](https://github.com/JoschkaSchulz/cordova-plugin-image-resizer/pull/43)
